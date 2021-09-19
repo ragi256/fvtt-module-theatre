@@ -71,9 +71,9 @@
         "app/css/theatre.css"
     ],
     "packs": [],
-    "url": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre",
-    "download": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/v1.16.2/theatre.zip",
-    "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/latest/module.json",
+    "url": "https://github.com/ragi256/fvtt-module-theatre",
+    "download": "https://github.com/ragi256/fvtt-module-theatre/archive/refs/tags/development.zip",
+    "manifest": "https://github.com/ragi256/fvtt-module-theatre/releases/download/development/module.json",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.6"
 }
